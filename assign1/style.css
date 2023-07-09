@@ -48,6 +48,7 @@ body
 .border
 {
     background-color: rgb(128, 99, 28);
+    overflow-x: auto;
     width: 80%;
     height: auto;
     text-align: center;
